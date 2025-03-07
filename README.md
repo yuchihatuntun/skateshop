@@ -9,7 +9,7 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 >
 > It uses new technologies (drizzle ORM) which are subject to change and may break your application.
 
-## Tech Stack
+## Tech Stak
 
 - **Framework:** [Next.js](https://nextjs.org)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com)
